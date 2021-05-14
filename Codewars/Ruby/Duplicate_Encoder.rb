@@ -4,7 +4,6 @@
 #string. Ignore capitalization when determining if a character is a duplicate.
 
 #Examples
-
 #"din"      =>  "((("
 #"recede"   =>  "()()()"
 #"Success"  =>  ")())())"

@@ -2,7 +2,6 @@
 #using a space between words.
 
 #Example
-
 #{}"camelCasing"  =>  "camel Casing"
 #{}"identifier"   =>  "identifier"
 #{}""             =>  ""
